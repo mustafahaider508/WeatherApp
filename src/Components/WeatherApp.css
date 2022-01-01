@@ -1,0 +1,49 @@
+#wraper-img{
+    background-image: url("https://media2.giphy.com/media/u01ioCe6G8URG/giphy.gif?cid=ecf05e47u5lzz2tedw1v8dm09vccoo72q5vfek5apcaqz0gv&rid=giphy.gif&ct=g");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.hearder{
+
+ display: flex;  
+ align-items: center;  
+
+}
+.hearder > div{
+    margin: 10px;
+}
+
+.search-bar{
+    display: flex;
+    align-items: center;
+    background-color: #1c1c1e;
+    border-radius: 40px ;
+    flex: 1;
+    height: 40px;
+    color: #eee;
+   
+}
+.search-Icon{
+    margin: 10px;
+    background-color: #ffffff;
+   color: gray;
+}
+.search{
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    outline: none;
+    color: #eee;
+    font-size: 16px;
+}
+.button{
+  background: transparent;
+     color: rgb(255, 255, 255);
+    border:black;
+    padding:8px;
+    border-radius: 5px;
+    font-size: 16px;
+}

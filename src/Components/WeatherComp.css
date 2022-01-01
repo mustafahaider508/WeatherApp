@@ -1,0 +1,51 @@
+
+.paper_div{
+    background-color: #1c1c1e;
+    border-radius: 10px;
+    padding: 10px;
+    height: 23vh;
+    
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    background-color: #1c1c1e;
+  
+}
+.Sunrise{
+    background-color: #1c1c1e;
+    padding-top: 5px;
+    padding-left: 5px;
+    
+}
+.time{
+    background-color: #1c1c1e;
+    font-size: 25px;
+    text-align: left;
+    padding-bottom: 20px;
+    
+    
+}
+.sunset{
+    background-color: #1c1c1e;
+    color: #eee;
+    text-align: left;
+    padding-top: 30px;
+    
+}
+.divider1{
+    background-color: rgb(255, 225, 0);
+        justify-content: center;
+        align-items: center;
+        height:1px;
+        width:100%;
+        border-radius:20px;
+}
+.Sun_icon{
+    background-color: #1c1c1e;
+    font-size: 20px;
+    color: rgb(255, 225, 0);
+    padding-top: 10px;
+   
+}

@@ -1,0 +1,30 @@
+.main_div{
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.name{
+    font-size: 35px;
+}
+.temp{
+    font-size: 100px;
+    font-weight: 200;
+}
+.weathermood{
+    font-size: 20px;
+}
+.temperatues{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.max{
+    font-size: 20px;
+}
+.min{
+    font-size: 20px;
+    padding-left: 10px;
+}

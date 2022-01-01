@@ -1,0 +1,42 @@
+.div1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px;
+    background-color:#1e1e1c;
+}
+.line{
+    background-color: 
+    #1cb5e0;
+        justify-content: center;
+        align-items: center;
+        height:3px;
+        width:30%;
+        border-radius:20px;
+        
+        
+}
+.min_div{
+    background-color:#1e1e1c;
+    margin: 20px;
+    border-radius: 10px;
+}
+.img{
+    background-color:#1e1e1c;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon{
+    background-color:#1e1e1c;
+    align-items: center;
+    color: white;
+    padding-top: 10px;
+}
+.f_div{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    background-color:#1e1e1c;
+
+}
